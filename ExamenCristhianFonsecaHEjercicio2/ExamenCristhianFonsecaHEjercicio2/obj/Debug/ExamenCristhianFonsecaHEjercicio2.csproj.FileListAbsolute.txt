@@ -1,0 +1,8 @@
+C:\Users\Chris\Desktop\UH\Programacion II\Proyectos\ExamenCristhianFonsecaHEjercicio2\ExamenCristhianFonsecaHEjercicio2\bin\Debug\ExamenCristhianFonsecaHEjercicio2.exe.config
+C:\Users\Chris\Desktop\UH\Programacion II\Proyectos\ExamenCristhianFonsecaHEjercicio2\ExamenCristhianFonsecaHEjercicio2\bin\Debug\ExamenCristhianFonsecaHEjercicio2.exe
+C:\Users\Chris\Desktop\UH\Programacion II\Proyectos\ExamenCristhianFonsecaHEjercicio2\ExamenCristhianFonsecaHEjercicio2\bin\Debug\ExamenCristhianFonsecaHEjercicio2.pdb
+C:\Users\Chris\Desktop\UH\Programacion II\Proyectos\ExamenCristhianFonsecaHEjercicio2\ExamenCristhianFonsecaHEjercicio2\obj\Debug\ExamenCristhianFonsecaHEjercicio2.csproj.AssemblyReference.cache
+C:\Users\Chris\Desktop\UH\Programacion II\Proyectos\ExamenCristhianFonsecaHEjercicio2\ExamenCristhianFonsecaHEjercicio2\obj\Debug\ExamenCristhianFonsecaHEjercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chris\Desktop\UH\Programacion II\Proyectos\ExamenCristhianFonsecaHEjercicio2\ExamenCristhianFonsecaHEjercicio2\obj\Debug\ExamenCristhianFonsecaHEjercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\UH\Programacion II\Proyectos\ExamenCristhianFonsecaHEjercicio2\ExamenCristhianFonsecaHEjercicio2\obj\Debug\ExamenCristhianFonsecaHEjercicio2.exe
+C:\Users\Chris\Desktop\UH\Programacion II\Proyectos\ExamenCristhianFonsecaHEjercicio2\ExamenCristhianFonsecaHEjercicio2\obj\Debug\ExamenCristhianFonsecaHEjercicio2.pdb
